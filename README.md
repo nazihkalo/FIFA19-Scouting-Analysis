@@ -1,0 +1,2 @@
+# FIFA19-Scouting-Analysis
+For this project, we are positioning ourselves as a scouting agency that uses analytics to, among other things, enhance the discovery of talents and help soccer clubs better understand the dynamics (features) that come into play when determining the value, overall and future potential of a player. We will be utilizing the FIFA Player dataset available on Kaggle and apply various Data Mining techniques to achieve our objectives. 
